@@ -21,7 +21,7 @@ export default {
     "localeConfigs": {}
   },
   "customFields": {
-    "apiUrl": "https://web-production-e1ceb.up.railway.app",
+    "apiUrl": "web-production-e1ceb.up.railway.app",
     "apiKey": ""
   },
   "presets": [
