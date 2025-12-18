@@ -25,8 +25,8 @@ interface ChatPanelProps {
 type PanelSize = 'small' | 'medium' | 'large';
 
 // API Configuration
-const API_URL = 'https://ai-rative-book-backend-production.up.railway.app';
-const API_KEY = 'fwnelrjrl2ur08d9s0fsdhf90324h30493';
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+const API_KEY = 'password123';
 
 // Regex to detect redirect commands in response
 const REDIRECT_REGEX = /\[\[REDIRECT:([^\]]+)\]\]/;

@@ -7,9 +7,9 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "Bridging the gap between the digital brain and the physical body",
   "favicon": "img/favicon.ico",
-  "url": "https://github.com/BismaYousuf",
-  "baseUrl": "/physical-ai-and-humanoid-robotics/",
-  "organizationName": "Bisma Yousuf",
+  "url": "https://github.com",
+  "baseUrl": "/",
+  "organizationName": "Taha Ahmed",
   "projectName": "physical-ai-and-humanoid-robotics",
   "onBrokenLinks": "warn",
   "i18n": {
@@ -21,7 +21,7 @@ export default {
     "localeConfigs": {}
   },
   "customFields": {
-    "apiUrl": "https://ai-rative-book-backend-production.up.railway.app",
+    "apiUrl": "https://web-production-e1ceb.up.railway.app",
     "apiKey": ""
   },
   "presets": [
@@ -30,7 +30,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/BismaYousuf"
+          "editUrl": "https://github.com/Sid-Taha"
         },
         "blog": false,
         "theme": {
@@ -83,7 +83,7 @@ export default {
           ]
         },
         {
-          "href": "https://github.com/BismaYousuf",
+          "href": "https://github.com/Sid-Taha",
           "label": "GitHub",
           "position": "right"
         }
@@ -110,12 +110,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Bisma Yousuf GitHub",
-              "href": "https://github.com/BismaYousuf"
+              "label": "Taha GitHub",
+              "href": "https://github.com/Sid-Taha"
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/bisma-yousuf-52572b2b4/"
+              "href": "https://www.linkedin.com/in/taha-ahmed-siddiqui-245324175/"
             }
           ]
         },
@@ -124,7 +124,7 @@ export default {
           "items": [
             {
               "label": "GitHub Repository",
-              "href": "https://github.com/BismaYousuf"
+              "href": "https://github.com/Sid-Taha"
             }
           ]
         }
