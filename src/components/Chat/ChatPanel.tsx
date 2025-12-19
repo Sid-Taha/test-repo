@@ -28,7 +28,7 @@ type PanelSize = 'small' | 'medium' | 'large';
 
 // -------------------------------------------------------------------------
 // API Configuration
-let API_URL = 'simple-hackathon-physical-ai-and-humanoid-roboti.railway.internal' ;
+let API_URL = 'simple-hackathon-physical-ai-and-humanoid-roboti-production.up.railway.app' ;
 
 // Agar browser mein 'localhost' likha hai, to Local Backend use karo
 if (typeof window !== 'undefined' && window.location.hostname === 'localhost') {
